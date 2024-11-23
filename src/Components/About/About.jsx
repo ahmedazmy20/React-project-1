@@ -13,7 +13,7 @@ export default function About() {
               <i className="fa-solid fa-star mx-2 text-white"></i>
               <div className='w-16 h-[4px] bg-white '></div>
             </div>
-            <div className='mt-3 lg:grid lg:grid-cols-2   md:grid-cols-1  '>
+            <div className='mt-3 container lg:grid lg:grid-cols-2   md:grid-cols-1  '>
               <p className='text-start ms-11 md:mb-8 md:ms-0 md:p-2 sm:ms-5 sm:mb-8'>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
               <p className='text-start ms-5 md:ms-0 md:p-2'>Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
             </div>

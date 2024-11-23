@@ -18,7 +18,7 @@ export default function Portfolio() {
             </div>
           </div>
 
-          <div className='grid gap-10 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
+          <div className='grid gap-10 container lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1'>
             
             <div className=' group cursor-pointer'>
               <div className='relative '>
